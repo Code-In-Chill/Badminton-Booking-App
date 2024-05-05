@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Text Colors -->
+    <color name="colorTextPrimary">#FFFFFF</color>
+    <color name="colorTextSecondary">#BDBDBD</color>
+
+    <!-- Background Colors -->
+    <color name="colorBackground">#303030</color>
+    <color name="colorBackgroundSecondary">#424242</color>
+
+    <!-- Button Colors -->
+    <color name="colorButtonNormal">#2196F3</color>
+    <color name="colorButtonPressed">#1976D2</color>
+
+    <!-- Other Colors -->
+    <color name="colorDivider">#616161</color>
+</resources>

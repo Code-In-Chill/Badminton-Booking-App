@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "560600150978",
+    "project_id": "movies-api-leminhbao",
+    "storage_bucket": "movies-api-leminhbao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560600150978:android:cd98bc8a692b161bf01c5b",
+        "android_client_info": {
+          "package_name": "iuh.three_fool_guys.badminton_booking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560600150978-tqne8pi0cbq1hol24aj5g6kc52dbnt6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "iuh.three_fool_guys.badminton_booking_app",
+            "certificate_hash": "23874f03282a7ea0c3a27c5bcef6281bc538843d"
+          }
+        },
+        {
+          "client_id": "560600150978-0ng7t3dtbel276bol9ddbejlqbe1mg29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXuOqSfWfjE9BojJZBDE0ksAOy10lAkHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560600150978-0ng7t3dtbel276bol9ddbejlqbe1mg29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
